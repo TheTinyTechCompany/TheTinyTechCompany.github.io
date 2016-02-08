@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+ 
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+# SEO settings
+title: The Tiny Tech Company Pty Ltd
+description: "Tech for today, Ideas for tomorrow!"
+keywords: "DevOps, Development, Delivery"
+
+# Site settings
+url: http://thetinytechcompany.io"
+
+# Author settings
+author:
+  email     : contact@thetinytechcompany.io
+  url       : http://thetinytechcompany.io
+  github    : https://github.com/orgs/TheTinyTechCompany/
+  twitter   : http://twitter.com/TheTinyTechCo
+  # linkedin  : http://linkedin.com/in/TheTinyTechCo
