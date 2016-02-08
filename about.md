@@ -7,8 +7,8 @@ permalink: /about/
 
 
 ## WE ARE:
-A new startup located in sunny Brisbane Australia, founded by [Matthew Erbs](https://twitter.com/MatthewErbs) and [Ramona Raggl](https://twitter.com/ramonaraggl).
+A newly founded startup located in sunny Brisbane, Australia.  [Matthew Erbs](https://twitter.com/MatthewErbs) and [Ramona Raggl](https://twitter.com/ramonaraggl) started this venture after running successful business in their respective industries.
 
 ## WHAT WE DO:
 
-*Delivery* is the the key to what we provide to our clients.  We specialise in DevOps, App Development and Solution Delivery across a variety of Cloud providers.
+A focus on *Delivery* is key to services we provide to our clients.  We specialise in educational technology and statistical analytics utilising continuous delivery of app development and solutions across a variety of Cloud providers.
