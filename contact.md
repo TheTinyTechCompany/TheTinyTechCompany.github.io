@@ -5,7 +5,7 @@ subtitle: The Tiny Tech Company Pty. Ltd.
 permalink: /contact/
 ---
 
-#OUR DETAILS 
+# OUR DETAILS 
 
 **EMAIL:** [contact@thetinytechcompany.io](mailto:contact@thetinytechcompany.io)
 
