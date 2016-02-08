@@ -7,7 +7,7 @@ permalink: /about/
 
 
 ## WE ARE:
-A new startup located in sunny Brisbane Australia, founded by [Matthew Erbs](https://twitter.com/MatthewErbs) and[Ramona Raggl](https://twitter.com/ramonaraggl).
+A new startup located in sunny Brisbane Australia, founded by [Matthew Erbs](https://twitter.com/MatthewErbs) and [Ramona Raggl](https://twitter.com/ramonaraggl).
 
 ## WHAT WE DO:
 
