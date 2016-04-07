@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/matthewerbs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thetinytechcompany.io
+  * I am matthewerbs (https://keybase.io/matthewerbs) on keybase.
+  * I have a public key with fingerprint 058E EE74 3C70 A91F E9D5  FC2F FDC5 410E 313D 0DA3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010142bdc87c78098b1fc2aba345f98731c3f8ad023dc552cc124a8360cc761714c40a",
+            "fingerprint": "058eee743c70a91fe9d5fc2ffdc5410e313d0da3",
+            "host": "keybase.io",
+            "key_id": "fdc5410e313d0da3",
+            "kid": "010142bdc87c78098b1fc2aba345f98731c3f8ad023dc552cc124a8360cc761714c40a",
+            "uid": "d69c19c2cfb5d164e7ee86ae3152fd19",
+            "username": "matthewerbs"
+        },
+        "service": {
+            "hostname": "thetinytechcompany.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459999576,
+    "expire_in": 157680000,
+    "prev": "2fe869cd1757b45912c9d22398b7074446e44de1dc268ea74f758b4a7cb264dd",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIzAnicrZJbSBVBGMePlZmnLHuKCKPW85B1qp3d2WslFGkKFURG906zM7O6XnbP
+2bNHkxI1e7ALZUQlIRWYRT4EXehOmNiFwgqLICRUsB6iMrILBVqzZm89Ni/DfPP/
+/74LX0fa2EAwaeje0slgSVpz0uO7zYnA+uTnG3ZyhkMqOX0nV0JHLlpKaNyLlFiE
+0zke8AAKBsGqghWV11QDmFhABhKhZGqqIgIsmioivCASLEkCxkCASBVlHmNFBgqA
+GPKIC3OmZRdSN+patudjJZVSqkARKzzSgEk1IjGuaTIIBDwVgUh4gkRmLHLivoMV
+Z6A4XWA5LMYekZHy/qH/z3UnRnBE1jDQsIBNQyJAhlShVJURyysJJgGaL4xT10Zl
+lKnLkOcV0QrqGnGuKsyxj3ILU3+2fjOjIqbwLLvSo7gIO2VRZFf+6S3qOp6DnVIm
+KfK8qO4TvMqob6mgRmQUFjEsm7CRMkM5deOWY3M6YErsWT4dQEljR1LkMEd3RC2X
+RixfwQIqz46fhpYzpGCyPjRMgCIpBjMBAWtEEEQ2MIVXIIQyhZBQQLAgqxQp0FQk
+1YBIwYYgQ0I4v72Y7XC6ILA6USFjxq1CG3kJl3JV7W1bxgWSgoHxyWPYrm0MBFPT
+/25g6GDK8MJSEsjvyOr71lQwdNm81lqRtv9Q8EfvxQeNR2vqmtasrXradaV36urF
+mQse6Z3nX06b39MTCj+u2dcXik2pbmhZd2H5tNNecWps4Mj99o3t3RNuj/uSUnUj
+N6c4ZWKqcWp2/+aa9lttjQ+PXCfHT5ydMbgj+0Dzs1+JgrzAuelPho5dfbhn7la9
+M1i/+OnYgta38c6PrSvrvt5LdFV0Ldw93L2i5c0LNW/Lz3cZrz6k93y/GZr6fKB2
++8n82gfu4UuxJZ9j21DWspaZr3dl1L+/s2pu5orNbRfv6npXXgg3VB/OnnNw06Kc
+Sbe3zyuvzT1zKliA27bmfZqV3nC5Tx08s3fC10X5L/p/AxZQRxY=
+=odRN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/matthewerbs
+
+==================================================================
