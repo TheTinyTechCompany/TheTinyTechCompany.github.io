@@ -27,3 +27,5 @@ author:
   github    : https://github.com/orgs/TheTinyTechCompany/
   twitter   : http://twitter.com/TheTinyTechCo
   # linkedin  : http://linkedin.com/in/TheTinyTechCo
+
+exclude: [Gemfile, Gemfile.lock, sass.sh, dev.sh]
